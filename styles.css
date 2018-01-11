@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: black;
 }
 /* Link Styles */
 
@@ -22,6 +22,8 @@ a:hover {
 }
 
 /* Section Styles */
+
+
 
 .main-nav {
   width: 100%;
@@ -125,6 +127,7 @@ footer {
   width: 100%;
   min-height: 30px;
   padding: 20px 0 40px 20px;
+  color: white;
 }
 
 footer .copyright {
